@@ -44,6 +44,6 @@ How to use the application.
   </a><!--   <a href="https://github.com/yourusername/yourrepository/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue"></a> -->
 </div>
 ###⭐️ Star this Repository
-If you find this project useful, consider giving it a star on [GitHub](https://github.com/vinitk09/Advance-Java/stargazers)! Thank you for your support!
+If you find this project useful, consider giving it a star on [GitHub](https://github.com/vinitk09/Advance-Java)! Thank you for your support!
 
 
