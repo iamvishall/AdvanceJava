@@ -36,6 +36,8 @@ How to use the application.
 - Use the "View Book" feature to search for books by name or author.
 - The "Delete Book" option allows users to remove a book record.
 ```
+### 6. ⭐️ Star this Repository
+If you find this project useful, consider giving it a star on [GitHub](https://github.com/vinitk09/Advance-Java)! Thank you for your support!
 <div align="center">
   <a href="https://github.com/vinitk09/Advance-Java/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/vinitk09/Advance-Java"></a>
 
@@ -43,7 +45,6 @@ How to use the application.
     <img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-Profile-blue">
   </a><!--   <a href="https://github.com/yourusername/yourrepository/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue"></a> -->
 </div>
-### 7. ⭐️ Star this Repository
-If you find this project useful, consider giving it a star on [GitHub](https://github.com/vinitk09/Advance-Java)! Thank you for your support!
+
 
 
