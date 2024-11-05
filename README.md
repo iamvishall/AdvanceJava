@@ -17,8 +17,7 @@ LMS is an open source Advance-Java web application which helps to add, receive a
 ```
 ## Clone Repository
 ```markdown
-git clone 
-cd
+git clone https://github.com/vinitk09/Advance-Java.git
 ```
 ## Database Intialization
 ```markdown
