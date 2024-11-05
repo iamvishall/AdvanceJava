@@ -1,13 +1,13 @@
 # Library Management System (LMS)
 LMS is an open source Advance-Java web application which helps to add, receive and delete book details. Created using JSP and Servlet pages and connects to Mysql database to store and retrive book information. 
-## Features
+### 1. Features
 ```markdown
 - Add new book details
 - Get book details using search parameter
 - Delete book details using bookname.
 ```
   
-## Technologies Used
+### 2. Technologies Used
 ```markdown
 - Mysql
 - JDBC Driver
@@ -15,11 +15,11 @@ LMS is an open source Advance-Java web application which helps to add, receive a
 - Java (Jsp, Servlet)
 - Apache Tomcat Server
 ```
-## Clone Repository
+### 3. Clone Repository
 ```markdown
 git clone https://github.com/vinitk09/Advance-Java.git
 ```
-## Database Intialization
+### 4. Database Intialization
 ```markdown
 - Import the project to Netbeans
 - Create a Mysql database named LMS
@@ -29,7 +29,7 @@ git clone https://github.com/vinitk09/Advance-Java.git
 - Run the Application
 ```
 
-### 6. Usage
+### 5. Usage
 How to use the application.
 ```markdown
 - Go to the "Add Book" page to insert new books.
@@ -43,7 +43,7 @@ How to use the application.
     <img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-Profile-blue">
   </a><!--   <a href="https://github.com/yourusername/yourrepository/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue"></a> -->
 </div>
-###⭐️ Star this Repository
+### 7. ⭐️ Star this Repository
 If you find this project useful, consider giving it a star on [GitHub](https://github.com/vinitk09/Advance-Java)! Thank you for your support!
 
 
