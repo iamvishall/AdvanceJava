@@ -37,7 +37,7 @@ How to use the application.
 - The "Delete Book" option allows users to remove a book record.
 ```
 ### 6. ⭐️ Star this Repository
-If you find this project useful, consider giving it a star on [GitHub](https://github.com/vinitk09/Advance-Java)! Thank you for your support!
+If you find this project useful, consider giving it a star on [Github](https://github.com/vinitk09/Advance-Java)! Thank you for your support!
 <div align="center">
   <a href="https://github.com/vinitk09/Advance-Java/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/vinitk09/Advance-Java"></a>
 
