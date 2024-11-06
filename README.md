@@ -1,22 +1,43 @@
 # Library Management System (LMS)
-LMS is an open source Advance-Java web application which helps to add, receive and delete book details. Created using JSP and Servlet pages and connects to Mysql database to store and retrive book information. 
+
+LMS is an open-source Advanced-Java web application that helps to add, retrieve, and delete book details. It is created using JSP and Servlet pages and connects to a MySQL database to store and retrieve book information.
+
 ### 1. Features
-```markdown
 - Add new book details
-- Get book details using search parameter
-- Delete book details using bookname.
-```
-  
+- Get book details using search parameters
+- Delete book details using the book name
+
+---
+
+## Screenshots
+
+### Add Book Page
+This is the "Add Book" page in the Library Management System:
+
+![Add Book Screenshot](Library%20Management%20System/build/web/LMS%20ADD%20BOOK.png)
+
+### Get Book Page
+This is the "Get Book" page in the Library Management System:
+
+![Get Book Screenshot](Library%20Management%20System/build/web/LMS%20GET%20BOOK.png)
+
+### Delete Book Page
+This is the "Delete Book" page in the Library Management System:
+
+![Delete Book Screenshot](Library%20Management%20System/build/web/LMS%20DELETE%20BOOK.png)
+
+---
+
 ### 2. Technologies Used
-```markdown
-- Mysql
+- MySQL
 - JDBC Driver
 - HTML, CSS
-- Java (Jsp, Servlet)
+- Java (JSP, Servlet)
 - Apache Tomcat Server
-```
+
 ### 3. Clone Repository
-```markdown
+To clone this repository, use the following command:
+```bash
 git clone https://github.com/vinitk09/Advance-Java.git
 ```
 ### 4. Database Intialization
